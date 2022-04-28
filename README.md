@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ywj0212
+- 👀 I’m interested in ... Web Fullstack Dev, Game Dev
+- 🌱 I’m currently learning ... Vue3, Node.js, C#, ASP.NET, Unity3D
+- 📫 How to reach me ... Discord @ywj0212#6643
